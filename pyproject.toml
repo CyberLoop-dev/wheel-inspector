@@ -1,0 +1,6 @@
+[project]
+name = "wheel-inspector"
+version = "0.1.0"
+description = "Inspect Python wheel archives without installing them, showing package metadata, declared dependencies, console scripts, and packaging file checks."
+requires-python = ">=3.10"
+license = "MIT"
